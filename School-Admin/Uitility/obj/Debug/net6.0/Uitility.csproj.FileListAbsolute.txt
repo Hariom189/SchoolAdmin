@@ -1,0 +1,12 @@
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\bin\Debug\net6.0\Uitility.deps.json
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\bin\Debug\net6.0\Uitility.dll
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\bin\Debug\net6.0\Uitility.pdb
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.csproj.AssemblyReference.cache
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.GeneratedMSBuildEditorConfig.editorconfig
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.AssemblyInfoInputs.cache
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.AssemblyInfo.cs
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.csproj.CoreCompileInputs.cache
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.dll
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\refint\Uitility.dll
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\Uitility.pdb
+D:\School-Application\Backend-in Dot Net\School-Admin\Uitility\obj\Debug\net6.0\ref\Uitility.dll

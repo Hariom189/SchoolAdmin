@@ -1,0 +1,11 @@
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\bin\Debug\net6.0\DAL.dll
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\bin\Debug\net6.0\DAL.pdb
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\DAL.dll
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\DAL.pdb
+D:\School-Application\Backend-in Dot Net\School-Admin\DAL\obj\Debug\net6.0\ref\DAL.dll
